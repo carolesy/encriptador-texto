@@ -32,3 +32,7 @@ Este é um projeto simples de um decodificador de texto que inclui uma interface
 2. Clique no botão "Criptografar" para criptografar o texto.
 3. Clique no botão "Descriptografar" para descriptografar o texto.
 4. Clique no botão "Copiar" para copiar o texto resultante para a área de transferência.
+
+##Veja o projeto
+
+**link** https://encriptador-texto-six.vercel.app/
