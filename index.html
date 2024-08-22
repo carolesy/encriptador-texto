@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Encriptador</title>
+</head>
+<body>
+    <header>
+        <img class="logo__estrela" src="/Imagens/Star.png" alt="Estrela">
+        <h1 class="titulo-cabecalho">Decodificador de texto</h1>
+    </header>
+
+    <main>
+        <section>
+            <textarea class="text__area" cols="41" rows="4" id="inputTexto">Digite seu texto aqui</textarea>
+
+                <div class="informacao">
+                    <h6>Apenas letras minúsculas e sem acento.</h6>
+                </div>
+
+                <div class="botoes">
+                    <button class="btn encriptar" onclick="btnEncriptar()">Criptografrar</button>
+                    <button class="btn desencriptar" onclick="btnDesencriptar()">Descriptografar</button>
+                </div>
+        </section>
+            
+        <section>
+            <textarea class="mensagem" cols="20" rows="10"></textarea>
+            <button class="btn copiar" onclick="copiarTexto()">Copiar</button>
+        </section>
+    </main>
+    <footer>
+        <p class="rodape">Desenvolvido por Caroline Andrade.<p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
