@@ -11,9 +11,9 @@ Este é um projeto simples de um decodificador de texto que inclui uma interface
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estrutura da página web.
-- **CSS**: Estilização da página web.
-- **JavaScript**: Funcionalidades interativas, como criptografar, descriptografar e copiar texto.
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Estrutura do Projeto
 
